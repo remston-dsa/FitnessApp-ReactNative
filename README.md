@@ -10,6 +10,10 @@ Welcome to the Fitness App, your personal guide to a healthier and fitter lifest
 - **Image Slider:** Visualize exercises with a user-friendly image slider to ensure proper form and technique.
 - **Responsive Design:** Enjoy a seamless experience on both iOS and Android devices, thanks to the responsive design of the app.
 
+## My App UI
+1. Index Page
+
+
 
 ## Project Structure
 
