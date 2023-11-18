@@ -13,7 +13,16 @@ Welcome to the Fitness App, your personal guide to a healthier and fitter lifest
 ## My App UI
 1. Index Page
 
+<img src="./assets/myImage/first_page.png" alt="Index Page" style="width: 20%; height: 30%;">
 
+2. Home Page
+<img src="./assets/myImage/home.png" alt="Home Page" style="width: 20%; height: 30%;">
+
+3. Exercise Page
+<img src="./assets/myImage/exercise.png" alt="Exercise Page" style="width: 20%; height: 30%;">
+
+4. Exercise Detail
+<img src="./assets/myImage/exercise_detail_1.png" alt="Exercise Detail Page" style="width: 20%; height: 30%;">
 
 ## Project Structure
 
