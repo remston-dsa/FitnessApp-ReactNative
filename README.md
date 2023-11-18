@@ -1,6 +1,7 @@
 # Fitness App
 
 Welcome to the Fitness App, your personal guide to a healthier and fitter lifestyle. This React Native mobile application is designed to provide users with a comprehensive platform for discovering, learning, and practicing various exercises to meet their fitness goals.
+<img src="./assets/myImage/home_.png" alt="Index Page">
 
 ## Features
 
