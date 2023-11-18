@@ -15,6 +15,7 @@ Welcome to the Fitness App, your personal guide to a healthier and fitter lifest
 
 <img src="./assets/myImage/first_page.png" alt="Index Page" style="width: 20%; height: 30%;">
 
+<img src="./assets/myImage/first_page.png" alt="Index Page" style="width: 10%; height: 20%;">
 2. Home Page
 <img src="./assets/myImage/home.png" alt="Home Page" style="width: 20%; height: 30%;">
 
